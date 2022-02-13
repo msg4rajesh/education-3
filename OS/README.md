@@ -2,7 +2,9 @@
 
 The code for these tutorials is no longer maintained. Please check out the repository dedicated to my OS series:
 
-https://www.github.com/stephengrice/pkos
+https://www.github.com/pagekeysolutions/pkos
+
+Notes and more are at our website: https://pagekeysolutions.com/docs/pkos
 
 ## Resources
 
